@@ -1,0 +1,45 @@
+.menu-principal{
+  background-color: #6A3434 ;
+  height: 60px;
+  width: 100%;
+  }
+  .main{
+    margin: 0 auto;
+    width: 1200px;
+    position: relative;
+  }
+  .logo{
+    float: left;
+    padding: 5px;
+    width: 20%;
+  }
+  .menu ul li{
+    margin-top: 20px;
+    display: inline-block;
+    list-style: none;  
+  }
+  .menu ul li a{
+   color: #E39999;
+   text-decoration: none;
+   margin-right: 25px;
+  }
+  .menu{
+  width: 40%;
+  }
+    
+.foot{
+  background-color: #6A3434 ;
+  height: 80px;
+  width: 100%;
+  
+  }
+  .foot img{
+    margin-top: 10px;
+  }
+  .p-import{
+    text-align: justify;
+    margin-left:60px;
+    margin-right:60px;
+    margin-top: 15px;
+  }
+  
